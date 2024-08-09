@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<div style="width:500px;margin-left:300px">
+<form method="post">
+        <input type="text" name="t1" class="form-control" placeholder="Name" />
+        <input type="password" name="t2" class="form-control" placeholder="Password" />
+
+    <input type="submit" class="btn btn-info" value="Login" />
+
+    <a asp-controller="OnlineShop" asp-action="Register" class="btn btn-info">
+           New User? Register Now
+    </a>
+</form>
+</div>
+
+<div class ="btn btn-danger">
+    @ViewData["msg"]
+</div>
