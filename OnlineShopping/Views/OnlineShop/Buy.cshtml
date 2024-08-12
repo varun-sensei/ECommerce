@@ -1,0 +1,32 @@
+﻿
+
+@model List<OnlineShopping.Models.Product>
+<div class="row">
+
+    @if(Model!=null)
+    {
+    foreach (var res in Model)
+    {
+        <div class="col-md-4">
+            <img src='/@res.Pimage' height="200px" />
+            <div>@res.Pid</div>
+            <div>@res.Pname</div>
+            <div>@res.Description</div>
+            <div>@res.Price</div><br />
+        </div>
+
+
+            <div>
+                <form method="post">
+                    <input type="text" name="qty" placeholder="Quantity" class="form-control" /><br />
+                    <input class="btn btn-info" type="submit" value="Confirm Buy" />
+                </form>
+            </div>
+    }
+    }
+
+</div>
+
+<div class="btn btn-success">
+    @ViewData["msg"]
+</div>
