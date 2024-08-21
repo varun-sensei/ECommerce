@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\onlineshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\varun.munipelli\\source\\repos\\shoprepo\\onlineshopping\\onlineshopping\\models\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\models\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\varun.munipelli\\source\\repos\\shoprepo\\onlineshopping\\onlineshopping\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\varun.munipelli\\source\\repos\\shoprepo\\onlineshopping\\onlineshopping\\views\\onlineshop\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\onlineshop\\viewproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\varun.munipelli\\source\\repos\\shoprepo\\onlineshopping\\onlineshopping\\models\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\models\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BF271F8-286B-48C5-8E47-8004E5159307}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\varun.munipelli\\source\\repos\\shoprepo\\onlineshopping\\onlineshopping\\views\\security\\securedmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -110,12 +110,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -124,14 +120,14 @@
               "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\OnlineShopController.cs",
               "ToolTip": "C:\\Users\\varun.munipelli\\source\\repos\\ShopRepo\\OnlineShopping\\OnlineShopping\\Controllers\\OnlineShopController.cs",
               "RelativeToolTip": "OnlineShopping\\Controllers\\OnlineShopController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAIAwwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T11:58:09.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\varun.munipelli\\source\\repos\\ShopRepo\\OnlineShopping\\OnlineShopping\\Views\\Security\\Login.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\Security\\Login.cshtml",
@@ -155,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ViewProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\varun.munipelli\\source\\repos\\ShopRepo\\OnlineShopping\\OnlineShopping\\Views\\OnlineShop\\ViewProduct.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\OnlineShop\\ViewProduct.cshtml",
@@ -179,15 +175,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "onlineshopdbContext.cs",
               "DocumentMoniker": "C:\\Users\\varun.munipelli\\source\\repos\\ShopRepo\\OnlineShopping\\OnlineShopping\\Models\\onlineshopdbContext.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Models\\onlineshopdbContext.cs",
               "ToolTip": "C:\\Users\\varun.munipelli\\source\\repos\\ShopRepo\\OnlineShopping\\OnlineShopping\\Models\\onlineshopdbContext.cs",
               "RelativeToolTip": "OnlineShopping\\Models\\onlineshopdbContext.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswB0AAACOAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCYAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T04:36:10.609Z"
+              "WhenOpened": "2024-07-23T04:36:10.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
